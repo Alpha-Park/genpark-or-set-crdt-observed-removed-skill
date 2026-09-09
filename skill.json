@@ -1,0 +1,13 @@
+{
+  "name": "genpark-or-set-crdt-observed-removed-skill",
+  "version": "1.0.0",
+  "description": "Observed-Removed Set (OR-Set) CRDT resolving concurrent add/remove conflicts with unique element tagging and add-wins convergence.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "or-set",
+    "crdt",
+    "add-wins",
+    "conflict-free-replicated-data-type"
+  ]
+}
